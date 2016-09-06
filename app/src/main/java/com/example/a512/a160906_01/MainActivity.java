@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
         btnname.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                textname.setText("singihea");
-                Toast.makeText(getApplicationContext(),"singihea",Toast.LENGTH_SHORT).show();
+                textname.setText("gihea");
+                Toast.makeText(getApplicationContext(),"gihea",Toast.LENGTH_SHORT).show();
             }
         });
     }
